@@ -3,6 +3,7 @@
 Created on Sun Jan 14 12:36:19 2018
 
 @author: Randy
+assignment 10.2
 """
 
 
