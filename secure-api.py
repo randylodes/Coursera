@@ -15,6 +15,9 @@ Created on Sat Mar 17 11:19:51 2018
 # continued trouble loading oauth2
 # help("modules") to list all available modules
 # still not installed -- may try manual install later
+# follow-up -> default install of oauth2 is broken; manually copied __init__.oy as described here:
+# https://stackoverflow.com/questions/30957373/how-should-i-use-consumer-object-in-oauth2-v-2-in-python-3-4
+# got further then need to install httplib2: 'conda install -c conda-forge httplib2'
 
 
 
